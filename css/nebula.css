@@ -526,7 +526,7 @@ a.side_blog_entry:hover .side_blog_title {
 
 
 .tl_main_logo_wrap {
-  max-width: 315px;
+  max-width: 400px;
   margin: 0 auto;
   padding: 20px 0 20px;
 }
@@ -537,8 +537,8 @@ a.tl_main_logo {
 }
 img.tl_main_logo {
   display: block;
-  width: 192px;
-  height: 192px;
+  width: 210px;
+  height: 210px;
   margin: 0 auto;
 }
 .tl_main_logo_title,
