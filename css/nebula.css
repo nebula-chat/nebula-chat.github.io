@@ -554,7 +554,7 @@ img.tl_main_logo {
 .tl_main_logo_title_image {
   width: 144px;
   height: 36px;
-  background: url(../img/Telegram_1x.png) 0 0 no-repeat;
+  background: url(../img/Nebula_1x.png) 0 0 no-repeat;
   margin: 18px auto 6px;
 }
 .tl_main_logo_lead {
@@ -965,7 +965,7 @@ h3.tl_main_card_header {
   float: left;
   padding-right: 78px;
 }
-.footer_column_telegram {
+.footer_column_nebula{
   width: 290px;
   padding-right: 50px;
 }
@@ -1001,7 +1001,7 @@ h3.tl_main_card_header {
 .footer_privacy_description p {
   margin-bottom: 6px;
 }
-.footer_telegram_description {
+.footer_nebula_description {
   font-size: 13px;
 }
 
@@ -1612,29 +1612,29 @@ h3.tl_main_card_header {
   background: #d50000;
 }
 .control-label-item,
-.form-telegram .control-label {
+.form-nebula .control-label {
   text-align: right;
   margin-bottom: 0;
   line-height: 20px;
   padding-top: 11px;
 }
-.form-telegram .help-block {
+.form-nebula .help-block {
   font-size: 13px;
   color: #808080;
   margin-top: 10px;
   margin-bottom: 5px;
 }
-.form-telegram .form-group {
+.form-nebulaform-group {
   margin-bottom: 20px;
 }
-.form-telegram textarea.form-control {
+.form-nebula textarea.form-control {
   margin-top: 7px;
 }
-.form-telegram .form-control[readonly] {
+.form-nebula.form-control[readonly] {
   cursor: text;
   background: #fff;
 }
-.form-telegram .form-control[readonly]:focus {
+.form-nebula .form-control[readonly]:focus {
   border: 1px solid #ccc;
   box-shadow: none;
 }
@@ -2536,7 +2536,7 @@ video.smartphone_video_player {
 }
 
 
-/* Telegram Me */
+/* Nebula Im */
 .tgme_page_wrap {
   font-family: 'Roboto', sans-serif;;
   color: #2b2d2e;
@@ -3205,7 +3205,7 @@ a.tlb_blog_head_more_link .tlb_head_more_active,
 }
 
 
-.tl_telegram_share_btn {
+.tl_nebula_share_btn {
   display: inline-block;
   border-radius: 15px;
   background-color: #54a9eb;
@@ -3216,14 +3216,14 @@ a.tlb_blog_head_more_link .tlb_head_more_active,
   color: #FFF;
   font-weight: bold;
 }
-.tl_telegram_share_btn:hover,
-.tl_telegram_share_btn:active,
-.tl_telegram_share_btn:focus {
+.tl_nebula_share_btn:hover,
+.tl_nebula_share_btn:active,
+.tl_nebula_share_btn:focus {
   text-decoration: none;
   color: #FFF;
   outline: none;
 }
-i.tl_telegram_share_icon {
+i.tl_nebula_share_icon {
   display: inline-block;
   width: 22px;
   height: 22px;
@@ -3232,27 +3232,27 @@ i.tl_telegram_share_icon {
   margin-right: 7px;
   vertical-align: top;
 }
-.tl_telegram_share_label {
+.tl_nebula_share_label {
   line-height: 21px;
   vertical-align: top;
   display: inline-block;
   /*margin-top: 1px;*/
 }
 
-.tlb_page_wrap a.tl_telegram_share_btn {
+.tlb_page_wrap a.tl_nebula_share_btn {
   background: #3faee8;
   color: #FFF;
   font-size: 14px;
   border-radius: 17px;
   padding: 6px 12px 5px 6px;
 }
-.tlb_page_wrap a.tl_telegram_share_btn:hover,
-.tlb_page_wrap a.tl_telegram_share_btn:active {
+.tlb_page_wrap a.tl_nebula_share_btn:hover,
+.tlb_page_wrap a.tl_nebula_share_btn:active {
   color: #c2eaff;
 }
 
 
-/* Telegram Desktop */
+/* NebulaChat Desktop */
 .td_btn_hidden,
 .td_all_shown .td_show_all_platforms {
   display: none;
@@ -3460,7 +3460,7 @@ i.tl_telegram_share_icon {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   .tl_main_logo_title_image {
-    background-image: url(../img/Telegram_2x.png);
+    background-image: url(../img/Nebula_2x.png);
     background-size: 144px 36px;
   }
   .caret {
@@ -3520,7 +3520,7 @@ i.tl_telegram_share_icon {
     background-size: 7px 7px;
   }
 
-  i.tl_telegram_share_icon {
+  i.tl_nebula_share_icon {
     background: url(../img/share_logo_2x.png) 0 0 no-repeat;
     background-size: 22px 22px;
   }
@@ -3986,7 +3986,7 @@ i.tl_telegram_share_icon {
   }
 
 
-  /* Telegram.me */
+  /* Nebula.im */
   .tgme_head_wrap {
     background: #FFF;
     height: 59px;
