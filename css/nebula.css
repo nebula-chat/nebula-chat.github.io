@@ -3298,6 +3298,11 @@ i.tl_nebula_share_icon {
   background-size: 420px 280px;
   height: 280px;
 }
+.td_screenshot_ios {
+  background: url(../img/SiteiOs.jpg?1) 50% 0 no-repeat;
+  background-size: 420px 280px;
+  height: 280px;
+}
 .td_download_wrap,
 .td_download_wrap_low {
   margin: 0 -130px;
