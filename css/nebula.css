@@ -3287,6 +3287,12 @@ i.tl_nebula_share_icon {
   padding-top: 58%;
   margin-top: 48px;
 }
+.td_screenshot_android {
+  background: url(../img/SiteAndroid.jpg?1) 50% 0 no-repeat;
+  background-size: contain;
+  padding-top: 58%;
+  margin-top: 48px;
+}
 .td_screenshot_macos {
   background: url(../img/macos_screen.png?1) 50% 0 no-repeat;
   background-size: 420px 280px;
